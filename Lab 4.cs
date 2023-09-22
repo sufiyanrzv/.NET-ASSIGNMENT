@@ -12,7 +12,7 @@ namespace Assignment4
     {
         static void Main(string[] args)
         {
-            Bank b1 = new Bank("Ritik Kaushik", 1000);
+            Bank b1 = new Bank("Sufiyan Ali", 1000);
             b1.getDetails();
             Console.ReadKey();
         }
@@ -94,7 +94,7 @@ namespace Assignment4
     {
         static void Main(string[] args)
         {
-            Person p1 = new Person("Ritik", "Kaushik");
+            Person p1 = new Person("Sufiyan", "Ali");
             p1.getDetails();
             Console.ReadKey();
         }
